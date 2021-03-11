@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/ceres_hello_world.dir/ceres_hello_world.cpp.o  -o ceres_hello_world /usr/local/lib/libceres.a -lglog /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.1 -lpthread -lspqr -ltbb -lcholmod -lccolamd -lcamd -lcolamd -lamd -lopenblas -lsuitesparseconfig -lrt -lcxsparse -lopenblas -lsuitesparseconfig -lrt -lcxsparse 

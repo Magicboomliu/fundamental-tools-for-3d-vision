@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSubmodule.a  CMakeFiles/Submodule.dir/subfunc.cc.o
+/usr/bin/ranlib libSubmodule.a

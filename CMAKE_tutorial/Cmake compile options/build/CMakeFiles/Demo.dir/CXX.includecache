@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuzihua/Desktop/Slam/CMAKE_tutorial/Cmake compile options/main.cc
+iostream
+-
+submodule/subfun.h
+/home/liuzihua/Desktop/Slam/CMAKE_tutorial/Cmake compile options/submodule/subfun.h
+
+/home/liuzihua/Desktop/Slam/CMAKE_tutorial/Cmake compile options/submodule/subfun.h
+iostream
+-
+
